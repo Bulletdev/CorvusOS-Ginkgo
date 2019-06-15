@@ -1,0 +1,9 @@
+ota-property-files=metadata:69:307         
+ota-required-cache=0
+ota-type=BLOCK
+post-build=Xiaomi/corvus_ginkgo/ginkgo:11/RQ3A.210705.001/0b619fc427:user/release-keys
+post-build-incremental=0b619fc427
+post-sdk-level=30
+post-security-patch-level=2021-07-05
+post-timestamp=1627546292
+pre-device=ginkgo,willow
